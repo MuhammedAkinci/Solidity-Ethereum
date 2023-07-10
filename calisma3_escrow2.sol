@@ -2,7 +2,7 @@
 pragma solidity 0.8.0;
 
 /* 
-Bu çalışma calisma3.1_escrow.sol olarak geçmektedir. Bir önceki çalışma olan calisma3_escrow.sol adlı çalışma ile aynı işlevselliği taşımaktadır.
+Bu çalışma calisma3_escrow2.sol olarak geçmektedir. Bir önceki çalışma olan calisma3_escrow.sol adlı çalışma ile aynı işlevselliği taşımaktadır.
 Fakat bazı küçük farklılıklar vardır. Bu çalışmada önceki çalışmadan farklı olarak bazı fonksiyonların farklı kullanımı veya değişik kullanımları söz konusudur.
 calisma3_escrow çalışmasında olan bazı satırlar burada yoktur. Bunun nedeni farklı şekilde kullanıldığını veya kullanılmadığında nasıl bir değişiklik olduğunu gösterebilmektir.
 */
